@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Key Features:
+
+🚀 Fast and Responsive: Enjoy quick access to breaking news on any device, thanks to our responsive design.
+🌐 Global Coverage: Stay in the loop with diverse news categories covering international, national, business, technology, sports, and more.
+📸 Rich Media Content: Immerse yourself in the news with vibrant images and multimedia content for a more engaging reading experience.
+🎯 Personalized Recommendations: Tailor your news feed based on your preferences, ensuring you get the stories that matter to you.
+🔍 Search and Explore: Effortlessly find the information you need with our powerful search and exploration features.
+Contributing:
+We welcome contributions from the community to enhance and refine NewsHub. Whether you're a developer, designer, or a passionate news enthusiast, your input is valuable. Feel free to submit bug reports, feature requests, or dive into the code to make NewsHub even better!
